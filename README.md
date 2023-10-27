@@ -1,2 +1,3 @@
 # minecraft-1.5.2-redone-by-me
-eaglercraft but redone again on github lul
+eaglercraft. just eaglercraft
+to install either version just download it also ia601609 is just 1.5.2 lol
